@@ -72,12 +72,5 @@ Once you have completed these steps, you should be able to run the project using
 
   
   ---
-  
-  ## Questions?
 
-  <img src="https://avatars.githubusercontent.com/u/61371242?v=4" alt="connietran-dev" width="40%" />
-  
-  For any questions, please contact me with the information below:
- 
-  GitHub: [@connietran-dev](https://api.github.com/users/connietran-dev)
   
