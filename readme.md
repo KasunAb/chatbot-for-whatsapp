@@ -48,4 +48,4 @@ If the installation was successful, you should be able to run the following comm
 
 ## Running the project
 
-    $ npm start
+    $ node index.js
